@@ -165,3 +165,17 @@ IEEE-33-Bus-Power-System-Analysis/
 ## Acknowledgement
 
 This project uses the `case33bw` benchmark distributed with MATPOWER. The benchmark and MATPOWER software remain subject to their respective attribution and licensing requirements.
+
+## References
+
+1. **Baran, M. E., and Wu, F. F. (1989).** "Network Reconfiguration in Distribution Systems for Loss Reduction and Load Balancing." *IEEE Transactions on Power Delivery*, 4(2), 1401–1407. https://doi.org/10.1109/61.25627
+
+2. **Zimmerman, R. D., Murillo-Sánchez, C. E., and Thomas, R. J. (2011).** "MATPOWER: Steady-State Operations, Planning, and Analysis Tools for Power Systems Research and Education." *IEEE Transactions on Power Systems*, 26(1), 12–19. https://doi.org/10.1109/TPWRS.2010.2051168
+
+3. **MATPOWER Documentation.** MATPOWER 8.1 User's Manual and `case33bw` benchmark case. Available at: https://matpower.org/
+
+## Attribution
+
+This project uses the IEEE 33-bus distribution benchmark provided through MATPOWER (`case33bw`). The MATLAB scripts for load disturbance analysis, contingency screening, network restoration and solar PV integration were developed for this project.
+
+The benchmark model and MATPOWER software are attributed to their respective original authors. The simulation results presented in this repository were generated using MATLAB and MATPOWER.
